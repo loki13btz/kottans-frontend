@@ -20,3 +20,9 @@ Refreshed my knowledge of HTML and Css. Almost everything that was in the course
 ![codecdlemyCss](./task_html_css_intro/CSS.PNG)
 ![course1](./task_html_css_intro/Course1.PNG)
 ![cource2](./task_html_css_intro/Course2.PNG)
+
+## Responsive Web Design
+In my practice, I use flexbox more often then Grid, for me it is a more convenient tool. Remembered the nuances of creating a Css Grid.Really liked the practice games;))))
+
+![Flex](./task_responsive_web_design/Flex.jpg)
+![Grid](./task_responsive_web_design/Grid.jpg)
