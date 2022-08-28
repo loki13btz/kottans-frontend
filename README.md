@@ -26,3 +26,12 @@ In my practice, I use flexbox more often then Grid, for me it is a more convenie
 
 ![Flex](./task_responsive_web_design/Flex.jpg)
 ![Grid](./task_responsive_web_design/Grid.jpg)
+
+## JS Basics
+I am familiar with the Javascript language, but it is still difficult for me. I liked the practical tasks and I hope to learn how to apply this knowledge in my work))
+![basic-js](./task_js_basics/basic-js.PNG)
+![ES6](./task_js_basics/ES6.PNG)
+![basic-algorithm-scripting](./task_js_basics/basic-algorithm-scripting.PNG)
+![basic-data-structures](./task_js_basics/basic-data-structures.PNG)
+![functional-programming](./task_js_basics/functional-programming.PNG)
+![intermediate-algorithm-scripting](./task_js_basics/intermediate-algorithm-scripting.PNG)
