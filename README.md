@@ -35,3 +35,8 @@ I am familiar with the Javascript language, but it is still difficult for me. I 
 ![basic-data-structures](./task_js_basics/basic-data-structures.PNG)
 ![functional-programming](./task_js_basics/functional-programming.PNG)
 ![intermediate-algorithm-scripting](./task_js_basics/intermediate-algorithm-scripting.PNG)
+
+## DOM
+DOM  is interesting and quite understandable, but there is still a lot to be studied) I will definitely use this knowledge in future work.
+![DOM](./task_js_dom/DOM.PNG)
+![DOM-manipulation](./task_js_dom/DOM-manipulation.PNG)
