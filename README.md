@@ -40,3 +40,9 @@ I am familiar with the Javascript language, but it is still difficult for me. I 
 DOM  is interesting and quite understandable, but there is still a lot to be studied) I will definitely use this knowledge in future work.
 ![DOM](./task_js_dom/DOM.PNG)
 ![DOM-manipulation](./task_js_dom/DOM-manipulation.PNG)
+
+## Object Oriented JS
+Object oriented programming is quite difficult for me, but I understand the importance of using classes and prototypes and will continue to understand this topic.
+![codewars](./task_js_oop/codewars.PNG)
+![codewars1](./task_js_oop/codewars1.PNG)
+![codewars2](./task_js_oop/codewars2.PNG)
